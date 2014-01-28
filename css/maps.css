@@ -1,0 +1,24 @@
+/* Google Maps API Test CSS */
+
+html, body {
+	font-family: verdana;
+	background-image:url('universe.jpg');
+	color:#fff;
+	height:100%;
+	text-align: center;
+	margin-top: 20px;
+
+}
+
+
+#map-canvas {
+	margin-left:400px;
+	margin-top: 100px;
+	height:400px;
+	width:500px;
+	position: absolute;
+}
+
+#content {
+	color: #000;
+}
